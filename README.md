@@ -1,3 +1,7 @@
+Live site link is here: https://blog-app-43tf-shreyanshs-projects-639b6ddb.vercel.app/
+Admin Panel can be managed by 
+1)Downloading the project and using "npm run dev"
+2)Going to admin panel and changing the blogs:- http://localhost:3000/admin 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
